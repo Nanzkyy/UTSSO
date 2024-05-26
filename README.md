@@ -53,6 +53,10 @@ UNIVERSITAS MUHAMMADIYAH RIAU
             <h3>MHD.ARDIYANSAH</h3>
             <p>NIM = 230401249.</p>
         </div>
+        <div class="service">
+            <h3>Muhammad Rizki</h3>
+            <p>NIM = 230401224.</p>
+        </div>
     </section>
 
     <section id="contact" class="contact">
