@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +10,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">UTS SO Nanda Zahri</div>
+            <div class="logo">UTS SO KELOMPOK 6</div>
             <ul class="nav-links">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
@@ -39,6 +40,10 @@
         <div class="service">
             <h3>Azzahri Ahmelin</h3>
             <p>NIM = 230401231.</p>
+        </div>
+        <div class="service">
+            <h3>Harya Jaya Kusuma</h3>
+            <p>NIM = 230401226.</p>
         </div>
     </section>
 
