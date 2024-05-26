@@ -45,6 +45,10 @@ UNIVERSITAS MUHAMMADIYAH RIAU
             <h3>Harya Jaya Kusuma</h3>
             <p>NIM = 230401226.</p>
         </div>
+        <div class="service">
+            <h3>M.Fauzan Zaky</h3>
+            <p>NIM = 230401248.</p>
+        </div>
     </section>
 
     <section id="contact" class="contact">
