@@ -62,16 +62,16 @@ UNIVERSITAS MUHAMMADIYAH RIAU
     <section id="contact" class="contact">
         <h2>Hubungi</h2>
         <form>
-            <label for="name">Name:</label>
+            <label for="name">Nama:</label>
             <input type="text" id="name" name="name">
             
             <label for="email">Email:</label>
             <input type="email" id="email" name="email">
             
-            <label for="message">Message:</label>
+            <label for="message">Pesan:</label>
             <textarea id="message" name="message"></textarea>
             
-            <button type="submit">Send</button>
+            <button type="submit">Kirim</button>
         </form>
     </section>
 
