@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+UNIVERSITAS MUHAMMADIYAH RIAU
 <html lang="en">
 <head>
     <meta charset="UTF-8">
