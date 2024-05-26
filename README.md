@@ -49,6 +49,10 @@ UNIVERSITAS MUHAMMADIYAH RIAU
             <h3>M.Fauzan Zaky</h3>
             <p>NIM = 230401248.</p>
         </div>
+        <div class="service">
+            <h3>MHD.ARDIYANSAH</h3>
+            <p>NIM = 230401249.</p>
+        </div>
     </section>
 
     <section id="contact" class="contact">
